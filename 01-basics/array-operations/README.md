@@ -11,3 +11,6 @@ This folder contains exercises related to basic array operations in Python. The 
 These exercises are suitable for beginners who are looking to strengthen their understanding of arrays and their operations in Python.
 
 Happy coding!
+
+
+
