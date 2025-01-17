@@ -1,20 +1,7 @@
 # Algorithm Practice Series 🚀
 This repository contains a collection of algorithm exercises designed to enhance programming and problem-solving skills. Each folder contains implementations of various algorithms from basic to advanced levels, with explanations and usage examples.
 ## 📚 Repository Structure
-``` algorithm-practice/
-├── 01-basic/
-│   ├── searching/
-│   ├── sorting/
-│   └── recursion/
-├── 02-intermediate/
-│   ├── dynamic-programming/
-│   ├── graph-algorithms/
-│   └── greedy/
-└── 03-advanced/
-    ├── advanced-data-structures/
-    ├── string-algorithms/
-    └── optimization/
-```
+
 ## 🎯 Learning Objectives
 
 - Understanding fundamental concepts of algorithms and data structures
